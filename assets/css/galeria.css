@@ -1,0 +1,9 @@
+.galeria {
+  background-color: rgb(243, 243, 219);
+  min-height: 60vh;
+}
+.galeria .wrapper {
+  max-width: 1200px;
+  width: 80%;
+  min-width: 300px;
+}/*# sourceMappingURL=galeria.css.map */

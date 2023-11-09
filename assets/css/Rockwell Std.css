@@ -1,0 +1,107 @@
+@font-face {
+	font-family: 'Rockwell Std';
+	src: url(../../assets/fonts/RockwellStd-Light.eot) format('embedded-opentype'),
+	url(../../assets/fonts/RockwellStd-Light.eot) format('embedded-opentype'),
+	url(../../assets/fonts/RockwellStd-Light.woff2) format('woff2'),
+	url(../../assets/fonts/RockwellStd-Light.woff) format('woff'),
+	url(../../assets/fonts/RockwellStd-Light.ttf) format('truetype');
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Rockwell Std';
+	src: url(../../assets/fonts/RockwellStd-LightItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/RockwellStd-LightItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/RockwellStd-LightItalic.woff2) format('woff2'),
+	url(../../assets/fonts/RockwellStd-LightItalic.woff) format('woff'),
+	url(../../assets/fonts/RockwellStd-LightItalic.ttf) format('truetype');
+	font-weight: 300;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Rockwell Std';
+	src: url(../../assets/fonts/RockwellStd-Condensed.eot) format('embedded-opentype'),
+	url(../../assets/fonts/RockwellStd-Condensed.eot) format('embedded-opentype'),
+	url(../../assets/fonts/RockwellStd-Condensed.woff2) format('woff2'),
+	url(../../assets/fonts/RockwellStd-Condensed.woff) format('woff'),
+	url(../../assets/fonts/RockwellStd-Condensed.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Rockwell Std';
+	src: url(../../assets/fonts/RockwellStd.eot) format('embedded-opentype'),
+	url(../../assets/fonts/RockwellStd.eot) format('embedded-opentype'),
+	url(../../assets/fonts/RockwellStd.woff2) format('woff2'),
+	url(../../assets/fonts/RockwellStd.woff) format('woff'),
+	url(../../assets/fonts/RockwellStd.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Rockwell Std';
+	src: url(../../assets/fonts/RockwellStd-Italic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/RockwellStd-Italic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/RockwellStd-Italic.woff2) format('woff2'),
+	url(../../assets/fonts/RockwellStd-Italic.woff) format('woff'),
+	url(../../assets/fonts/RockwellStd-Italic.ttf) format('truetype');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Rockwell Std';
+	src: url(../../assets/fonts/RockwellStd-ExtraBold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/RockwellStd-ExtraBold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/RockwellStd-ExtraBold.woff2) format('woff2'),
+	url(../../assets/fonts/RockwellStd-ExtraBold.woff) format('woff'),
+	url(../../assets/fonts/RockwellStd-ExtraBold.ttf) format('truetype');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Rockwell Std';
+	src: url(../../assets/fonts/RockwellStd-BoldCondensed.eot) format('embedded-opentype'),
+	url(../../assets/fonts/RockwellStd-BoldCondensed.eot) format('embedded-opentype'),
+	url(../../assets/fonts/RockwellStd-BoldCondensed.woff2) format('woff2'),
+	url(../../assets/fonts/RockwellStd-BoldCondensed.woff) format('woff'),
+	url(../../assets/fonts/RockwellStd-BoldCondensed.ttf) format('truetype');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Rockwell Std';
+	src: url(../../assets/fonts/RockwellStd-Bold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/RockwellStd-Bold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/RockwellStd-Bold.woff2) format('woff2'),
+	url(../../assets/fonts/RockwellStd-Bold.woff) format('woff'),
+	url(../../assets/fonts/RockwellStd-Bold.ttf) format('truetype');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Rockwell Std';
+	src: url(../../assets/fonts/RockwellStd-BoldItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/RockwellStd-BoldItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/RockwellStd-BoldItalic.woff2) format('woff2'),
+	url(../../assets/fonts/RockwellStd-BoldItalic.woff) format('woff'),
+	url(../../assets/fonts/RockwellStd-BoldItalic.ttf) format('truetype');
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
+}
