@@ -1,4 +1,5 @@
-if(window.location.pathname != '/index.html'){
+
+if(!window.location.pathname.toString().includes('index')){
   // Se desplaza la distancia correspondiente al alto actual del viewport
   document.querySelector(".scrollear").addEventListener("click", function() {
     // Se obtiene la altura actual del viewport
@@ -32,7 +33,7 @@ if(window.location.pathname != '/index.html'){
   });
 }
 
-if(window.location.pathname == '/artistas.html'){
+if(window.location.pathname.toString().includes('artistas')){
   let artistas = [...document.querySelectorAll('.grid-item a')];
 
   
@@ -41,4 +42,3 @@ if(window.location.pathname == '/artistas.html'){
     item.style.setProperty('--height-transpose', (Math.random()*6 ) + 'rem');
   })
 }
-
